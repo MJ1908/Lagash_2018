@@ -1,0 +1,10 @@
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\bin\Debug\netcoreapp2.0\EJEMPLO_CLASE.deps.json
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\bin\Debug\netcoreapp2.0\EJEMPLO_CLASE.runtimeconfig.json
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\bin\Debug\netcoreapp2.0\EJEMPLO_CLASE.runtimeconfig.dev.json
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\bin\Debug\netcoreapp2.0\EJEMPLO_CLASE.dll
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\bin\Debug\netcoreapp2.0\EJEMPLO_CLASE.pdb
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\obj\Debug\netcoreapp2.0\EJEMPLO_CLASE.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\obj\Debug\netcoreapp2.0\EJEMPLO_CLASE.AssemblyInfoInputs.cache
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\obj\Debug\netcoreapp2.0\EJEMPLO_CLASE.AssemblyInfo.cs
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\obj\Debug\netcoreapp2.0\EJEMPLO_CLASE.dll
+C:\Users\Lagash\Desktop\Lagash\EJEMPLO_CLASE\obj\Debug\netcoreapp2.0\EJEMPLO_CLASE.pdb
