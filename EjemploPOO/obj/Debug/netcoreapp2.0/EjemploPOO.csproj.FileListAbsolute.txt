@@ -1,0 +1,10 @@
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\bin\Debug\netcoreapp2.0\EjemploPOO.deps.json
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\bin\Debug\netcoreapp2.0\EjemploPOO.runtimeconfig.json
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\bin\Debug\netcoreapp2.0\EjemploPOO.runtimeconfig.dev.json
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\bin\Debug\netcoreapp2.0\EjemploPOO.dll
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\bin\Debug\netcoreapp2.0\EjemploPOO.pdb
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\obj\Debug\netcoreapp2.0\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\obj\Debug\netcoreapp2.0\EjemploPOO.AssemblyInfoInputs.cache
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\obj\Debug\netcoreapp2.0\EjemploPOO.AssemblyInfo.cs
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\obj\Debug\netcoreapp2.0\EjemploPOO.dll
+C:\Users\Lagash\Desktop\Lagash\EjemploPOO\obj\Debug\netcoreapp2.0\EjemploPOO.pdb
